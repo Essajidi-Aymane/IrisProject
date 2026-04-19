@@ -20,7 +20,9 @@
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  color: #003366;
+  background: url('/auto-ecole-bg.jpg') no-repeat center center fixed, linear-gradient(to bottom, #e6f0fa, #ffffff 80%);
+  background-size: cover;
   font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
 }
